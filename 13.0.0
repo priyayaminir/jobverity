@@ -1,0 +1,5 @@
+Collecting libclang
+  Using cached libclang-18.1.1-py2.py3-none-win_amd64.whl.metadata (5.3 kB)
+Using cached libclang-18.1.1-py2.py3-none-win_amd64.whl (26.4 MB)
+Installing collected packages: libclang
+Successfully installed libclang-18.1.1
